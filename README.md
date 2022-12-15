@@ -1,6 +1,6 @@
-Hackathon 2022, GreenDEX
+GreenDEX
 
 Warning: this demo.
 
 Milestones :
-Decentralized Exchange for TRX/WIN/WBTT/JST/SUN Tokens.
+Decentralized Exchange.
